@@ -1,0 +1,35 @@
+body{
+background-color: #1b3644;
+display: flex;
+justify-content: center;
+color: #fa9442;
+font-family: sans;
+}
+
+a{
+color: #fa9442;}
+
+
+h1{
+font-size: 52px;
+}
+
+header{
+
+width: 45em;
+
+}
+
+#content{
+
+width: 45em;
+
+
+}
+
+#next{
+background-color: #073f5c   ;
+box-shadow: 5px 5px 1px #008aa1;
+border-radius: 5px;
+padding: 25px;
+}
